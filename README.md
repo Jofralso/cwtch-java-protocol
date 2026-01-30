@@ -27,7 +27,7 @@ A Java library for decentralized, metadata-resistant, end-to-end encrypted messa
 1. **Clone the repository:**
 	```sh
 	git clone <repo-url>
-	cd cwtch-java
+	cd cwtch-java-protocol
 	```
 2. **Build the project:**
 	```sh
