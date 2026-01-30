@@ -1,0 +1,20 @@
+# .gitignore for Java/Maven
+/target/
+*.iml
+.idea/
+*.class
+*.log
+*.tmp
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+*.out
+*.test
+*.cache
+*.project
+*.classpath
+*.settings/
+/.vscode/
